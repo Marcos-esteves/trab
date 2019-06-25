@@ -1,4 +1,5 @@
 # Filtro de imagem python
 
-!(you are breathtaking.jpg)
-!(no, you are breathtaking.jpg)
+![Lena 512x512](lena_color.png)
+
+![Lena Canny](lena_result.png)
