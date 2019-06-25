@@ -2,4 +2,4 @@
 
 ![you are breathtaking](you_are_breathtaking.jpg)
 
-![Lena Canny](lena_result.png)
+![no, you are breathtaking](no, you are breathtaking.jpg)
